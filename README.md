@@ -1,19 +1,20 @@
-Programs Learned
+# Programs Learned
 
-This repository contains programming exercises and practical programs created to develop and improve my technical skills.
+This repository contains programming exercises and practical programs created as part of my MCA coursework and programming practice.
 
-Technologies
-
+## Technologies
 - Python
 - SQL
 - HTML
 - CSS
 - JavaScript
 
-Purpose
+## Contents
+- Basic Python programs
+- SQL practice queries
+- Basic HTML webpage
+- CSS practice
+- JavaScript calculator
 
-The purpose of this repository is to practice programming concepts, build practical programs, and continuously improve my software development skills.
-
-Author
-
+## Author
 Sudharsan P.
